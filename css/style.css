@@ -1,0 +1,19 @@
+body {
+  
+}
+
+.jumbotron {
+  background-size: 100% 100%;
+  text-align: center;
+  color: #174857;
+}
+
+h1 span {
+  background-color: #eff7f8;
+  padding: 15px;
+}
+
+p span {
+  background-color: #8fbfc7;
+  padding: 15px;
+}
